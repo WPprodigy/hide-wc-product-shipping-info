@@ -1,0 +1,41 @@
+# Copyright (C) 2015 Hide WooCommerce Product Shipping Information
+# This file is distributed under the same license as the Hide WooCommerce Product Shipping Information package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hide WooCommerce Product Shipping Information 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hide-woocommerce-product-shipping-information\n"
+"POT-Creation-Date: 2015-11-30 06:06:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: classes/admin/class-hide-wc-product-shipping-information-admin.php:35
+#: classes/admin/class-hide-wc-product-shipping-information-admin.php:48
+msgid "Hide Shipping Info"
+msgstr ""
+
+#: classes/admin/class-hide-wc-product-shipping-information-admin.php:36
+msgid "Prevent the shipping dimensions from showing on this product's page"
+msgstr ""
+
+#: classes/admin/class-hide-wc-product-shipping-information-admin.php:49
+msgid "Hide product shipping information on all product pages"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Hide WooCommerce Product Shipping Information"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Control which products should display shipping information on the product page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Caleb Burks"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://calebburks.com"
+msgstr ""
